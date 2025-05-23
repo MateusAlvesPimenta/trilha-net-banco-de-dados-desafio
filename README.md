@@ -1,4 +1,6 @@
-# DIO - Trilha .NET - Banco de Dados
+# DIO - Trilha .NET - Banco de Dados - Respostas
+![Respostas aos Exercícios](Respostas-aos-Exercícios.sql)
+
 www.dio.me
 
 ## Desafio de projeto
