@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Banco de Dados - Respostas
-![Respostas aos Exercícios](Respostas-aos-Exercícios.sql)
+[Respostas aos Exercícios](Respostas-aos-Exercícios.sql)
 
 www.dio.me
 
